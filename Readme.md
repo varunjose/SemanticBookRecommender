@@ -31,4 +31,4 @@ Developed an intelligent book recommendation system that combines natural langua
 Delivered a real-time, emotion-driven book recommendation platform that integrates NLP pipelines with interactive dashboards—demonstrating capabilities in **semantic retrieval, ML model integration, and user-centered design**.
 
 ---
-![alt text](Screenshot 2025-10-21 at 2.04.00 AM.png)
+![alt text](https://github.com/varunjose/SemanticBookRecommender/blob/main/result.png)
