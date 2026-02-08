@@ -1,6 +1,8 @@
 
 ### **Project: Semantic Book Recommender Dashboard**
 
+![alt text](https://github.com/varunjose/SemanticBookRecommender/blob/main/result.png)
+
 **Description:**
 Developed an intelligent book recommendation system that combines natural language processing (NLP), vector search, and emotion-based filtering to provide personalized suggestions. The system embeds book descriptions using OpenAI embeddings, performs semantic similarity retrieval via ChromaDB, and visualizes results through an interactive **Gradio dashboard**. It supports emotion-aware ranking (joy, sadness, fear, anger, surprise) and category filtering, enabling users to discover books that align with their interests and moods.
 
@@ -31,4 +33,3 @@ Developed an intelligent book recommendation system that combines natural langua
 Delivered a real-time, emotion-driven book recommendation platform that integrates NLP pipelines with interactive dashboards—demonstrating capabilities in **semantic retrieval, ML model integration, and user-centered design**.
 
 ---
-![alt text](https://github.com/varunjose/SemanticBookRecommender/blob/main/result.png)
